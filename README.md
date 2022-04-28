@@ -22,6 +22,8 @@ Unbreakable will destroy projectile on impact.
 What ever the projectile collide with will destroy the projectile.
  
  ## Enemy pathfinding
+ 
+ I Implemented A* search algorithm for enemy pathfinding. The algorithm calculates the shortest path to traverse to reach the player. I have modified the way I calculate heuristic score to ensure the AI can only traverse tiles in four directions.
 ![Combact_System](https://user-images.githubusercontent.com/69220988/165804096-9bba2267-709d-4e97-9ab3-512fa42173f8.gif)
 
 
