@@ -8,7 +8,7 @@ As a Player, I want to remotely activate a turret to fire a single projectile, f
 ## Shot block demo
  ![ReflectDemo](https://user-images.githubusercontent.com/69220988/165804050-95920426-0855-4044-a616-3a42bdcf789e.gif)
  
-### ** Using Reflect refract**
+### **Using Reflect refract**
 
 If the projectile approaching the player, before impact slow game time down to allow the player to select a direction for the projectile to reflect in.
 Check each tile the projectile is heading in. If it is going to hit breakable wall, then break the wall when the ball reaches that tile.
