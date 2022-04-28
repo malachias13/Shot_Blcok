@@ -1,4 +1,5 @@
 # Shot Block
+Shot Block is a tile base puzzle game where the player can remotely activate turrets and reflect projectiles at enemies and destructible objects.
 ## Shot block demo
  ![ReflectDemo](https://user-images.githubusercontent.com/69220988/165804050-95920426-0855-4044-a616-3a42bdcf789e.gif)
  
